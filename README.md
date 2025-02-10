@@ -1,2 +1,1 @@
-"# Workout-buddy" 
-"# mern-app" 
+"# mern-application" 
